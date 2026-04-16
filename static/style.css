@@ -1,0 +1,21 @@
+body {
+    background-color: #0f172a;
+    color: white;
+    font-family: Arial;
+    text-align: center;
+}
+
+table {
+    margin: auto;
+    border-collapse: collapse;
+    width: 80%;
+}
+
+th, td {
+    padding: 10px;
+    border: 1px solid #444;
+}
+
+.high { color: red; }
+.medium { color: yellow; }
+.low { color: lightgreen; }

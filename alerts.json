@@ -1,0 +1,478 @@
+[
+  {
+    "timestamp": "2026-04-13T03:14:59.247949Z",
+    "src_ip": "127.0.0.1",
+    "attack_type": "XSS",
+    "score": 50,
+    "action": "alert"
+  },
+  {
+    "timestamp": "2026-04-13T03:14:59.248638Z",
+    "src_ip": "127.0.0.1",
+    "attack_type": "XSS",
+    "score": 50,
+    "action": "alert"
+  },
+  {
+    "timestamp": "2026-04-13T03:15:35.739146Z",
+    "src_ip": "127.0.0.1",
+    "attack_type": "XSS",
+    "score": 50,
+    "action": "alert"
+  },
+  {
+    "timestamp": "2026-04-13T03:15:35.740640Z",
+    "src_ip": "127.0.0.1",
+    "attack_type": "XSS",
+    "score": 50,
+    "action": "alert"
+  },
+  {
+    "timestamp": "2026-04-13T03:15:35.777394Z",
+    "src_ip": "127.0.0.1",
+    "attack_type": "DoS / Flood",
+    "score": 40,
+    "action": "alert"
+  },
+  {
+    "timestamp": "2026-04-13T03:15:35.777744Z",
+    "src_ip": "127.0.0.1",
+    "attack_type": "DoS / Flood",
+    "score": 40,
+    "action": "alert"
+  },
+  {
+    "timestamp": "2026-04-13T03:15:35.779025Z",
+    "src_ip": "127.0.0.1",
+    "attack_type": "DoS / Flood",
+    "score": 40,
+    "action": "alert"
+  },
+  {
+    "timestamp": "2026-04-13T03:15:35.779299Z",
+    "src_ip": "127.0.0.1",
+    "attack_type": "DoS / Flood",
+    "score": 40,
+    "action": "alert"
+  },
+  {
+    "timestamp": "2026-04-13T03:15:35.779587Z",
+    "src_ip": "127.0.0.1",
+    "attack_type": "DoS / Flood",
+    "score": 40,
+    "action": "alert"
+  },
+  {
+    "timestamp": "2026-04-13T03:15:35.779876Z",
+    "src_ip": "127.0.0.1",
+    "attack_type": "DoS / Flood",
+    "score": 40,
+    "action": "alert"
+  },
+  {
+    "timestamp": "2026-04-13T03:15:35.780291Z",
+    "src_ip": "127.0.0.1",
+    "attack_type": "DoS / Flood",
+    "score": 40,
+    "action": "alert"
+  },
+  {
+    "timestamp": "2026-04-13T03:15:35.780682Z",
+    "src_ip": "127.0.0.1",
+    "attack_type": "DoS / Flood",
+    "score": 40,
+    "action": "alert"
+  },
+  {
+    "timestamp": "2026-04-13T03:15:35.781013Z",
+    "src_ip": "127.0.0.1",
+    "attack_type": "DoS / Flood",
+    "score": 40,
+    "action": "alert"
+  },
+  {
+    "timestamp": "2026-04-13T03:15:35.781343Z",
+    "src_ip": "127.0.0.1",
+    "attack_type": "DoS / Flood",
+    "score": 40,
+    "action": "alert"
+  },
+  {
+    "timestamp": "2026-04-13T03:15:35.781678Z",
+    "src_ip": "127.0.0.1",
+    "attack_type": "DoS / Flood",
+    "score": 40,
+    "action": "alert"
+  },
+  {
+    "timestamp": "2026-04-13T03:15:35.782104Z",
+    "src_ip": "127.0.0.1",
+    "attack_type": "DoS / Flood",
+    "score": 40,
+    "action": "alert"
+  },
+  {
+    "timestamp": "2026-04-13T03:15:35.782521Z",
+    "src_ip": "127.0.0.1",
+    "attack_type": "DoS / Flood",
+    "score": 40,
+    "action": "alert"
+  },
+  {
+    "timestamp": "2026-04-13T03:15:35.782957Z",
+    "src_ip": "127.0.0.1",
+    "attack_type": "DoS / Flood",
+    "score": 40,
+    "action": "alert"
+  },
+  {
+    "timestamp": "2026-04-13T03:15:35.783358Z",
+    "src_ip": "127.0.0.1",
+    "attack_type": "DoS / Flood",
+    "score": 40,
+    "action": "alert"
+  },
+  {
+    "timestamp": "2026-04-13T03:15:35.783795Z",
+    "src_ip": "127.0.0.1",
+    "attack_type": "DoS / Flood",
+    "score": 40,
+    "action": "alert"
+  },
+  {
+    "timestamp": "2026-04-13T03:15:36.877099Z",
+    "src_ip": "127.0.0.1",
+    "attack_type": "DoS / Flood",
+    "score": 40,
+    "action": "alert"
+  },
+  {
+    "timestamp": "2026-04-13T03:15:36.877603Z",
+    "src_ip": "127.0.0.1",
+    "attack_type": "DoS / Flood",
+    "score": 40,
+    "action": "alert"
+  },
+  {
+    "timestamp": "2026-04-13T03:15:36.881030Z",
+    "src_ip": "127.0.0.1",
+    "attack_type": "DoS / Flood",
+    "score": 40,
+    "action": "alert"
+  },
+  {
+    "timestamp": "2026-04-13T03:15:36.882368Z",
+    "src_ip": "127.0.0.1",
+    "attack_type": "DoS / Flood",
+    "score": 40,
+    "action": "alert"
+  },
+  {
+    "timestamp": "2026-04-13T03:15:36.883162Z",
+    "src_ip": "127.0.0.1",
+    "attack_type": "DoS / Flood",
+    "score": 40,
+    "action": "alert"
+  },
+  {
+    "timestamp": "2026-04-13T03:15:36.883935Z",
+    "src_ip": "127.0.0.1",
+    "attack_type": "DoS / Flood",
+    "score": 40,
+    "action": "alert"
+  },
+  {
+    "timestamp": "2026-04-13T03:15:36.887387Z",
+    "src_ip": "127.0.0.1",
+    "attack_type": "XSS, DoS / Flood",
+    "score": 90,
+    "action": "block"
+  },
+  {
+    "timestamp": "2026-04-13T03:49:30.789596Z",
+    "src_ip": "10.74.55.3",
+    "attack_type": "XSS",
+    "score": 50,
+    "action": "alert"
+  },
+  {
+    "timestamp": "2026-04-13T03:49:30.790601Z",
+    "src_ip": "10.74.55.3",
+    "attack_type": "XSS",
+    "score": 50,
+    "action": "alert"
+  },
+  {
+    "timestamp": "2026-04-13T03:53:46.907082Z",
+    "src_ip": "10.74.55.3",
+    "attack_type": "XSS",
+    "score": 50,
+    "action": "alert"
+  },
+  {
+    "timestamp": "2026-04-13T03:53:46.907707Z",
+    "src_ip": "10.74.55.3",
+    "attack_type": "XSS",
+    "score": 50,
+    "action": "alert"
+  },
+  {
+    "timestamp": "2026-04-13T03:56:31.188624Z",
+    "src_ip": "10.74.55.3",
+    "attack_type": "XSS",
+    "score": 50,
+    "action": "alert"
+  },
+  {
+    "timestamp": "2026-04-13T03:56:31.206487Z",
+    "src_ip": "10.74.55.3",
+    "attack_type": "XSS",
+    "score": 50,
+    "action": "alert"
+  },
+  {
+    "timestamp": "2026-04-13T03:56:35.165706Z",
+    "src_ip": "10.74.55.3",
+    "attack_type": "XSS",
+    "score": 50,
+    "action": "alert"
+  },
+  {
+    "timestamp": "2026-04-13T03:56:35.166500Z",
+    "src_ip": "10.74.55.3",
+    "attack_type": "XSS",
+    "score": 50,
+    "action": "alert"
+  },
+  {
+    "timestamp": "2026-04-13T03:56:35.186286Z",
+    "src_ip": "10.74.55.3",
+    "attack_type": "DoS / Flood",
+    "score": 40,
+    "action": "alert"
+  },
+  {
+    "timestamp": "2026-04-13T03:56:35.186907Z",
+    "src_ip": "10.74.55.3",
+    "attack_type": "DoS / Flood",
+    "score": 40,
+    "action": "alert"
+  },
+  {
+    "timestamp": "2026-04-13T03:56:35.188657Z",
+    "src_ip": "10.74.55.3",
+    "attack_type": "DoS / Flood",
+    "score": 40,
+    "action": "alert"
+  },
+  {
+    "timestamp": "2026-04-13T03:56:35.189671Z",
+    "src_ip": "10.74.55.3",
+    "attack_type": "DoS / Flood",
+    "score": 40,
+    "action": "alert"
+  },
+  {
+    "timestamp": "2026-04-13T03:56:35.190313Z",
+    "src_ip": "10.74.55.3",
+    "attack_type": "DoS / Flood",
+    "score": 40,
+    "action": "alert"
+  },
+  {
+    "timestamp": "2026-04-13T03:56:35.190832Z",
+    "src_ip": "10.74.55.3",
+    "attack_type": "DoS / Flood",
+    "score": 40,
+    "action": "alert"
+  },
+  {
+    "timestamp": "2026-04-13T03:56:35.191374Z",
+    "src_ip": "10.74.55.3",
+    "attack_type": "DoS / Flood",
+    "score": 40,
+    "action": "alert"
+  },
+  {
+    "timestamp": "2026-04-13T03:56:35.191878Z",
+    "src_ip": "10.74.55.3",
+    "attack_type": "DoS / Flood",
+    "score": 40,
+    "action": "alert"
+  },
+  {
+    "timestamp": "2026-04-13T03:56:35.192389Z",
+    "src_ip": "10.74.55.3",
+    "attack_type": "DoS / Flood",
+    "score": 40,
+    "action": "alert"
+  },
+  {
+    "timestamp": "2026-04-13T03:56:35.192801Z",
+    "src_ip": "10.74.55.3",
+    "attack_type": "DoS / Flood",
+    "score": 40,
+    "action": "alert"
+  },
+  {
+    "timestamp": "2026-04-13T03:56:35.193328Z",
+    "src_ip": "10.74.55.3",
+    "attack_type": "DoS / Flood",
+    "score": 40,
+    "action": "alert"
+  },
+  {
+    "timestamp": "2026-04-13T03:56:35.193851Z",
+    "src_ip": "10.74.55.3",
+    "attack_type": "DoS / Flood",
+    "score": 40,
+    "action": "alert"
+  },
+  {
+    "timestamp": "2026-04-13T03:56:35.194233Z",
+    "src_ip": "10.74.55.3",
+    "attack_type": "DoS / Flood",
+    "score": 40,
+    "action": "alert"
+  },
+  {
+    "timestamp": "2026-04-13T03:56:35.194593Z",
+    "src_ip": "10.74.55.3",
+    "attack_type": "DoS / Flood",
+    "score": 40,
+    "action": "alert"
+  },
+  {
+    "timestamp": "2026-04-13T03:56:35.194937Z",
+    "src_ip": "10.74.55.3",
+    "attack_type": "DoS / Flood",
+    "score": 40,
+    "action": "alert"
+  },
+  {
+    "timestamp": "2026-04-13T03:56:35.195278Z",
+    "src_ip": "10.74.55.3",
+    "attack_type": "DoS / Flood",
+    "score": 40,
+    "action": "alert"
+  },
+  {
+    "timestamp": "2026-04-13T03:56:35.195646Z",
+    "src_ip": "10.74.55.3",
+    "attack_type": "DoS / Flood",
+    "score": 40,
+    "action": "alert"
+  },
+  {
+    "timestamp": "2026-04-13T03:56:35.196035Z",
+    "src_ip": "10.74.55.3",
+    "attack_type": "DoS / Flood",
+    "score": 40,
+    "action": "alert"
+  },
+  {
+    "timestamp": "2026-04-13T03:56:35.196468Z",
+    "src_ip": "10.74.55.3",
+    "attack_type": "DoS / Flood",
+    "score": 40,
+    "action": "alert"
+  },
+  {
+    "timestamp": "2026-04-13T03:56:35.197058Z",
+    "src_ip": "10.74.55.3",
+    "attack_type": "DoS / Flood",
+    "score": 40,
+    "action": "alert"
+  },
+  {
+    "timestamp": "2026-04-13T03:57:27.224302Z",
+    "src_ip": "10.74.55.3",
+    "attack_type": "XSS",
+    "score": 50,
+    "action": "alert"
+  },
+  {
+    "timestamp": "2026-04-13T03:57:27.225978Z",
+    "src_ip": "10.74.55.3",
+    "attack_type": "XSS",
+    "score": 50,
+    "action": "alert"
+  },
+  {
+    "timestamp": "2026-04-13T03:57:27.918853Z",
+    "src_ip": "10.74.55.3",
+    "attack_type": "DoS / Flood",
+    "score": 40,
+    "action": "alert"
+  },
+  {
+    "timestamp": "2026-04-13T03:57:27.919503Z",
+    "src_ip": "10.74.55.3",
+    "attack_type": "DoS / Flood",
+    "score": 40,
+    "action": "alert"
+  },
+  {
+    "timestamp": "2026-04-13T03:57:27.923533Z",
+    "src_ip": "10.74.55.3",
+    "attack_type": "DoS / Flood",
+    "score": 40,
+    "action": "alert"
+  },
+  {
+    "timestamp": "2026-04-13T03:57:27.925271Z",
+    "src_ip": "10.74.55.3",
+    "attack_type": "DoS / Flood",
+    "score": 40,
+    "action": "alert"
+  },
+  {
+    "timestamp": "2026-04-13T03:57:27.926678Z",
+    "src_ip": "10.74.55.3",
+    "attack_type": "DoS / Flood",
+    "score": 40,
+    "action": "alert"
+  },
+  {
+    "timestamp": "2026-04-13T03:57:27.928067Z",
+    "src_ip": "10.74.55.3",
+    "attack_type": "DoS / Flood",
+    "score": 40,
+    "action": "alert"
+  },
+  {
+    "timestamp": "2026-04-13T03:57:27.929237Z",
+    "src_ip": "10.74.55.3",
+    "attack_type": "DoS / Flood",
+    "score": 40,
+    "action": "alert"
+  },
+  {
+    "timestamp": "2026-04-13T03:57:27.930233Z",
+    "src_ip": "10.74.55.3",
+    "attack_type": "DoS / Flood",
+    "score": 40,
+    "action": "alert"
+  },
+  {
+    "timestamp": "2026-04-13T03:57:27.931182Z",
+    "src_ip": "10.74.55.3",
+    "attack_type": "DoS / Flood",
+    "score": 40,
+    "action": "alert"
+  },
+  {
+    "timestamp": "2026-04-13T03:57:27.932321Z",
+    "src_ip": "10.74.55.3",
+    "attack_type": "DoS / Flood",
+    "score": 40,
+    "action": "alert"
+  },
+  {
+    "timestamp": "2026-04-13T03:57:27.935477Z",
+    "src_ip": "10.74.55.3",
+    "attack_type": "XSS, DoS / Flood",
+    "score": 90,
+    "action": "block"
+  }
+]
